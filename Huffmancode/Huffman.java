@@ -2,13 +2,6 @@
 import java.io.*;
 import  java.io.PrintWriter;
 import java.util.*;
-
-//Huffman code
-//Group: Ke Xu
-//		 FangZhou Liu
-//		 Tej Modi
-
-
 //This program will read a infile.dat file and convert it to Huffman code. It will display the frequency and Huffman code on
 //the screen and writ the Frequency (%) table and Huffman code in outfile.dat
 
