@@ -1,8 +1,3 @@
-//homework 2
-//Group members: Fangzhou Liu   10427122
-//               Ke  Xu         10430968
-//               Tej Modi       10431599
-
 
 import java.util.LinkedList;
 import java.util.Queue;
